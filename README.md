@@ -26,7 +26,7 @@ Check out my projects and contributions on my portfolio: <a href="https://m1k3de
 
 ###
 
-<p align="left">Data Engineering • Machine Learning • Big Data (Spark, Hadoop) • Cloud Platforms (AWS, GCP) • SQL/NoSQL Databases • Python • Automation</p>
+<p align="left">Data Engineering • Machine Learning • Big Data (Spark, Hadoop) • Cloud Platforms (AWS, Azure) • SQL/NoSQL Databases • Python • Automation</p>
 
 ###
 
