@@ -6,7 +6,6 @@
 
 <h1 align="left">🧠 AI & Data Engineer 🖥️</h1>
 
-###
 
 <p align="left"I'm Miguel Angel Rios Yañez 👋🏾, a Data Engineer and Software Developer specializing in building scalable data pipelines, optimizing workflows, and creating AI-driven solutions. Based in Mexico, I transform complex data into actionable insights, leveraging tools like Python, Apache Spark, and cloud platforms.</p>
 
