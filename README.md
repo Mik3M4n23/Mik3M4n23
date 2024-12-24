@@ -4,19 +4,22 @@
 
 ###
 
-<h1 align="left">🧠AI Enthusiast & Software Engineer 🖥️</h1>
+<h1 align="left">🧠 AI & Data Engineer 🖥️</h1>
 
 ###
 
-<p align="left">Welcome to my GitHub repository! I'm Miguel Angel Rios Yañez 👋🏾, a passionate software engineer with a specialization in artificial intelligence. Below, you'll find an overview of my skills and the projects I've worked on.</p>
+<p align="left"I'm Miguel Angel Rios Yañez 👋🏾, a Data Engineer and Software Developer specializing in building scalable data pipelines, optimizing workflows, and creating AI-driven solutions. Based in Mexico, I transform complex data into actionable insights, leveraging tools like Python, Apache Spark, and cloud platforms.</p>
 
 ###
 
-<h2 align="left">About me 👋🏾</h2>
+<h2 align="left">🔗 Explore My Work</h2>
 
 ###
 
-<p align="left">I'm Miguel, an experienced computer systems engineer based in Mexico, specializing in artificial intelligence. With a background in computer systems engineering and a deep passion for AI. My journey in software development has led me to focus extensively on data analysis, machine learning, and deep learning. I'm committed to leveraging my skills to innovate and contribute to the advancement of artificial intelligence technology. Let's collaborate and harness the power of AI to drive positive change in the world!<br><br>✨ I've been creating bugs since the first line of code I wrote, but hey, that's how we learn and improve!</p>
+<p align="center">
+Check out my projects and contributions on my portfolio: <a href="https://m1k3dev23.github.io/mi-portafolio-web/" target="_blank"><strong>m1k3dev23.github.io</strong></a>.
+</p>
+
 
 ###
 
@@ -24,7 +27,7 @@
 
 ###
 
-<p align="left">- Data Analysis: Proficient in analyzing datasets to extract meaningful insights and trends.<br><br>- Machine Learning & Deep Learning: Experienced in building predictive models using both traditional machine learning algorithms and advanced deep learning techniques.<br><br>- Mathematics, Statistics, and Probability: Strong background and experience in mathematics, statistics, and probability, providing a solid foundation for data analysis and machine learning tasks.</p>
+<p align="left">Data Engineering • Machine Learning • Big Data (Spark, Hadoop) • Cloud Platforms (AWS, GCP) • SQL/NoSQL Databases • Python • Automation</p>
 
 ###
 
