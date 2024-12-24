@@ -16,7 +16,7 @@
 ###
 
 <p align="center">
-Check out my projects and contributions on my portfolio: <a href="https://m1k3dev23.github.io/mi-portafolio-web/" target="_blank"><strong>m1k3dev23.github.io</strong></a>.
+Check out my projects and contributions on my portfolio: <a href="https://m1k3dev23.github.io/mi-portafolio-web/" target="_blank"><strong>Portafolio/strong></a>.
 </p>
 
 
@@ -27,14 +27,6 @@ Check out my projects and contributions on my portfolio: <a href="https://m1k3de
 ###
 
 <p align="left">Data Engineering • Machine Learning • Big Data (Spark, Hadoop) • Cloud Platforms (AWS, GCP) • SQL/NoSQL Databases • Python • Automation</p>
-
-###
-
-<h2 align="left">Goals</h2>
-
-###
-
-<p align="left">🎯 My primary goal is to leverage artificial intelligence to tackle real-world problems, improve existing solutions, and contribute to the broader artificial intelligence community. I'm driven by the desire to make meaningful contributions that advance the field and benefit society as a whole. Whether it's enhancing efficiency in industries, refining predictive models, or fostering collaboration within the AI community, I'm committed to making a positive impact through my work. Let's strive together to push the boundaries of artificial intelligence and create a better future for all.</p>
 
 ###
 
