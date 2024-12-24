@@ -15,8 +15,8 @@
 
 ###
 
-<p align="center">
-Check out my projects and contributions on my portfolio: <a href="https://m1k3dev23.github.io/mi-portafolio-web/" target="_blank"><strong>Portafolio/strong></a>.
+<p align="left">
+Check out my projects and contributions on my portfolio: <a href="https://m1k3dev23.github.io/mi-portafolio-web/" target="_blank"><strong>Portafolio</strong></a>.
 </p>
 
 
